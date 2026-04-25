@@ -1,3 +1,6 @@
+visite meu web curriculo: 
+https://kaua-chavesvk.github.io/web-curiculo/
+
 # 💼 Web Currículo - Kauã da Silva Aragão Chaves
 
 Este projeto é um **currículo web interativo**, desenvolvido para apresentar minhas informações profissionais, habilidades técnicas e projetos de forma moderna e acessível.
