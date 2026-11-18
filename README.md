@@ -31,4 +31,4 @@ A publicação usa o GitHub Pages da branch `main`, na raiz do repositório. Ao 
 
 Kauã da Silva Aragão Chaves · Fortaleza, CE
 
-[E-mail](mailto:kauaasilva2426@gmail.com) · [GitHub](https://github.com/kaua-chavesvk)
+[E-mail](mailto:kauasilva2426@gmail.com) · [GitHub](https://github.com/kaua-chavesvk)
