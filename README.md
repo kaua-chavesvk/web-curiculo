@@ -6,6 +6,7 @@ Currículo e portfólio pessoal, com formação, tecnologias, contato e projetos
 
 ## Projetos apresentados
 
+- [Trilha](https://trilha-processo-seletivo.vercel.app/) — acompanhamento de candidaturas com Java, Spring Boot, React, TypeScript e PostgreSQL. [Código](https://github.com/kaua-chavesvk/processo-seletivo).
 - [EquipeDesk](https://miakaelsondesk.vercel.app/) — gestão de chamados com Next.js, React, TypeScript e Supabase. [Código](https://github.com/kaua-chavesvk/equipedesk).
 - [TicketNow](https://kaua-chavesvk.github.io/ticketnow-portifolio/) — projeto de ingressos com HTML, CSS, JavaScript e API Ticketmaster. [Código](https://github.com/kaua-chavesvk/ticketnow-portifolio).
 - [Currículo web](https://kaua-chavesvk.github.io/web-curiculo/) — este site.
@@ -23,7 +24,7 @@ O conteúdo, a navegação e os contatos funcionam sem JavaScript. O botão de P
 
 ## Atualização do conteúdo
 
-Edite o HTML ao adicionar projetos ou alterar formação e contatos. As informações foram consultadas nos repositórios públicos em 18/11/2026; não há sincronização automática. O semestre foi omitido porque o perfil e o currículo anteriores divergiam. As tecnologias são apresentadas sem porcentagens de domínio.
+Edite o HTML ao adicionar projetos ou alterar formação e contatos. A lista de projetos é atualizada manualmente a partir dos repositórios públicos. O semestre foi omitido porque o perfil e o currículo anteriores divergiam. As tecnologias são apresentadas sem porcentagens de domínio.
 
 A publicação usa o GitHub Pages da branch `main`, na raiz do repositório. Ao enviar alterações para essa branch, acompanhe a publicação em Actions.
 

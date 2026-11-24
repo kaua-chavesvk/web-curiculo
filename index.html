@@ -6,7 +6,7 @@
     <title>Kauã Chaves — Currículo e projetos</title>
     <meta
       name="description"
-      content="Kauã da Silva Aragão Chaves, estudante de ADS na Unifametro, em Fortaleza. Conheça meus projetos EquipeDesk, TicketNow e meu currículo web."
+      content="Kauã da Silva Aragão Chaves, estudante de ADS na Unifametro, em Fortaleza. Conheça meus projetos Trilha, EquipeDesk e TicketNow."
     />
     <meta name="theme-color" content="#002FA7" />
     <meta property="og:title" content="Kauã Chaves — Currículo e projetos" />
@@ -28,7 +28,7 @@
       href="https://kaua-chavesvk.github.io/web-curiculo/"
     />
     <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
-    <link rel="stylesheet" href="styles.css?v=layout-chrome-1" />
+    <link rel="stylesheet" href="styles.css?v=projeto-trilha" />
     <script src="script.js" defer></script>
   </head>
   <body>
@@ -94,6 +94,53 @@
               >Ver meu GitHub</a
             >
           </div>
+          <article class="project featured" id="trilha" aria-labelledby="trilha-titulo">
+            <div class="project-body">
+              <p class="project-category">Recrutamento e seleção</p>
+              <h3 id="trilha-titulo">Trilha</h3>
+              <p>
+                O recrutador move a candidatura de triagem para entrevista e o
+                candidato acompanha a decisão no próprio histórico. A API grava
+                a mudança de etapa e a orientação ao candidato na mesma transação
+                no PostgreSQL.
+              </p>
+              <ul class="tags" aria-label="Tecnologias do Trilha">
+                <li>Java 21</li>
+                <li>Spring Boot</li>
+                <li>React</li>
+                <li>TypeScript</li>
+                <li>PostgreSQL</li>
+              </ul>
+            </div>
+            <div class="project-actions">
+              <a
+                class="text-link"
+                href="https://trilha-processo-seletivo.vercel.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Experimentar a demonstração do Trilha sem cadastro"
+                >Experimentar demo</a
+              >
+              <a
+                class="text-link"
+                href="https://github.com/kaua-chavesvk/processo-seletivo"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Ver código do Trilha no GitHub"
+                >Ver código</a
+              >
+            </div>
+            <figure class="project-preview">
+              <img
+                src="assets/trilha.png"
+                alt="Quadro do Trilha com candidaturas distribuídas por etapa da seleção"
+                width="1440"
+                height="960"
+                decoding="async"
+              />
+              <figcaption>Funil de seleção na visão do recrutador</figcaption>
+            </figure>
+          </article>
           <article class="project featured">
             <div class="project-body">
               <p class="project-category">Atendimento interno</p>
@@ -218,8 +265,9 @@
             </p>
             <p>
               Meus projetos reúnem interfaces com HTML, CSS e JavaScript e uma
-              aplicação com React, Next.js, TypeScript e Supabase. Também estudo
-              Java e Python.
+              aplicação com React, Next.js, TypeScript e Supabase. No Trilha, uso
+              Java e Spring Boot para integrar a interface ao PostgreSQL. Também
+              estudo Python.
             </p>
             <p>
               Busco meu primeiro estágio em TI para aplicar esses conhecimentos,

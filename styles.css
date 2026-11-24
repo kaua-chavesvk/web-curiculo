@@ -688,6 +688,14 @@ footer {
     font-size: 8pt;
     overflow-wrap: anywhere;
   }
+  #trilha .project-actions .text-link {
+    display: block;
+    padding: 0;
+    text-align: left;
+  }
+  #trilha .project-actions .text-link + .text-link {
+    margin-top: 6px;
+  }
   .project-actions a:after {
     content: " (" attr(href) ")";
     font-size: 7pt;
